@@ -26,7 +26,7 @@ jobs:
 
         with:
 
-          github_user_name: Victor-Hugo-inacio
+          github_user_name: vitoinacio
 
           svg_out_path: dist/github-contribution-grid-snake.svg
 
