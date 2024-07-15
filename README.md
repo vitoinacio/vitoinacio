@@ -22,10 +22,10 @@
 ###
 
 <div align="center">
-  <a href=" mailto:victor.hugo.ina10@gmail.com"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo"  /> </a>
-  <a href="https://www.linkedin.com/in/victor-hugo-in%C3%A1cio-de-oliveira-93497a242/" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  /> </a>
-  <a href="https://api.whatsapp.com/send?phone=5521979225977&text=Ol%C3%A1%20%21%20vim%20pelo%20Guithub%20%21" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="30" alt="whatsapp logo"  /> </a>
-  <a href="https://www.instagram.com/_vitor.hg_/" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"  /> </a>
+  <a href=" mailto:victor.hugo.ina10@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo"  /> </a>
+  <a href="https://www.linkedin.com/in/victor-hugo-in%C3%A1cio-de-oliveira-93497a242/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  /> </a>
+  <a href="https://api.whatsapp.com/send?phone=5521979225977&text=Ol%C3%A1%20%21%20vim%20pelo%20Guithub%20%21" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="30" alt="whatsapp logo"  /> </a>
+  <a href="https://www.instagram.com/_vitor.hg_/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"  /> </a>
 </div>
 
 ###
