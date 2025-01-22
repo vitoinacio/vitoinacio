@@ -4,7 +4,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoinacio&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="115" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=vitoinacio&locale=es&mode=weekly&theme=merko&hide_border=true&border_radius=5&order=3" height="115" alt="streak graph"  />
 </div>
 
 ###
