@@ -35,7 +35,7 @@ const dev = {
 ### 📫 Vamos nos conectar
 
 <p align="center">
-  <a href="https://linkedin.com/in/vitoinacio">
+  <a href="https://linkedin.com/in/victorhugoinacio">
     <img src="https://img.shields.io/badge/-Victor%20Hugo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
